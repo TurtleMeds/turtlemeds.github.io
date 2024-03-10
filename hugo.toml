@@ -1,0 +1,4 @@
+baseURL = 'https://bread.turtlemedicine.xyz'
+languageCode = 'en-us'
+title = "Owen's Bread"
+theme = "hugo-arogya-theme"

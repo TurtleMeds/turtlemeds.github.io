@@ -1,0 +1,3 @@
+[submodule "themes/arogya"]
+	path = themes/arogya
+	url = https://github.com/ameio/hugo-arogya-theme
